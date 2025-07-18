@@ -1,37 +1,76 @@
-# Learnhub-Your-center-for-skill-enhancement
-Features:
+# LearnHub - Your Center for Skill Enhancement
 
-LearnHub, as a center for skill enhancement, should offer features that focus on comprehensive learning, practical application, and career development. Key features include diverse learning modalities (online courses, workshops, mentorship), skill assessments and feedback, content curation to meet specific needs, and career guidance and placement assistance. Additionally, features like gamification, learning paths, and access to expert-led sessions can enhance the learning experience. 
-Here's a more detailed breakdown of features:
+## ✨ Project Objective:
+LearnHub is an online skill enhancement platform that allows students to register, browse skill courses, and enhance their learning experience digitally. This platform aims to bridge the skill gap by offering an easy-to-use learning portal.
 
-Learning & Development:
+---
 
-Diverse Learning Modalities:
+## 🛠️ Technologies Used:
 
-Offer a mix of online courses, workshops, webinars, and potentially even in-person training sessions to cater to different learning preferences. 
-Content Curation:
+- React.js, HTML, CSS, Bootstrap
+- Node.js, Express.js
+- MongoDB (MongoDB Atlas)
 
-Curate training content tailored to specific industries, roles, or individual skill gaps, ensuring relevance and effectiveness. 
-Expert-Led Sessions:
+---
 
-Provide opportunities to learn from industry experts through live sessions, Q&A, or mentorship programs. 
-Skill Assessments:
+## 🎯 Features:
 
-Incorporate regular assessments (quizzes, tests, assignments) to track progress, identify areas for improvement, and provide personalized feedback. 
-Learning Paths:
+- Student Registration/Login
+- Browse Courses
+- Enroll in Courses
+- Track Learning Progress
+- Responsive Web Design
 
-Offer structured learning paths that guide users through a series of courses and resources to achieve specific learning goals.  
-AI-Powered Features:
+---
 
-Utilize AI to personalize learning recommendations, automate skills assessments, and streamline administrative tasks. 
-Career & Professional Development:
-Career Guidance:
+## 📊 Tools Used:
 
-Offer career counseling, resume building assistance, and interview preparation to help learners transition into new roles or advance in their current careers. 
-Placement Assistance:
+- Visual Studio Code
+- GitHub
+- MongoDB Atlas
+- Render / Vercel (optional for deployment)
 
-Provide connections to potential employers and assist with job placement through partnerships with companies. 
-Networking Opportunities:
+---
 
-Facilitate connections between learners, industry professionals, and potential employers through events or online forums. 
- 
+## 📷 Project Screenshots:
+
+### Homepage
+![Homepage](screenshots/home.png)
+
+### Courses Page
+![Courses Page](screenshots/courses.png)
+
+### Dashboard Page
+![Dashboard Page](screenshots/dashboard.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+> Upload these images inside your /screenshots/ folder in your repository.
+
+---
+
+## 📄 Project Report:
+
+👉 [Click here to view the Project Report](Learnhub-project-Report.pdf)
+
+> Upload your Learnhub-project-Report.pdf file to the main repository folder for this link to work.
+
+---
+
+## 🎥 Project Demonstration Video:
+
+👉 [Click here to watch the Project Demo Video](https://drive.google.com/file/d/1RQh5gjPI4X_YhbnH9WCBBkZyfGWAccOm/view?usp=drivesdk)
+
+---
+
+## 🚀 How to Run This Project:
+
+1️⃣ *Install Dependencies:*
+
+```bash
+cd backend
+npm install
+
+cd ../frontend
+npm install
