@@ -35,16 +35,20 @@ LearnHub is an online skill enhancement platform that allows students to registe
 ## 📷 Project Screenshots:
 
 ### Homepage
-![Homepage](screenshots/home.png)
+![Homepage](screenshots<img width="1024" height="520" alt="image" src="https://github.com/user-attachments/assets/67fecc93-a885-49fe-b415-40563f40d7ad" />
+/home.png)
 
 ### Courses Page
-![Courses Page](screenshots/courses.png)
+![Courses Page](screenshots/co<img width="512" height="620" alt="image" src="https://github.com/user-attachments/assets/f8b34226-55c6-4b78-905e-574613990333" />
+urses.png)
 
 ### Dashboard Page
-![Dashboard Page](screenshots/dashboard.png)
+![Dashboard Page](screenshots/<img width="468" height="624" alt="image" src="https://github.com/user-attachments/assets/cda0c4f7-6733-4ac9-8372-3adbd93d38e5" />
+dashboard.png)
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screens<img width="488" height="380" alt="image" src="https://github.com/user-attachments/assets/6a017e75-517d-4764-912d-eede1f3764a7" />
+hots/login.png)
 
 > Upload these images inside your /screenshots/ folder in your repository.
 
