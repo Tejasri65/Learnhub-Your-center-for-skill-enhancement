@@ -56,7 +56,7 @@ hots/login.png)
 
 ## 📄 Project Report:
 
-👉 [Click herhttps://drive.google.com/drive/folders/1TXwkMlGpYnwwcLaErckgf-zx_lPN6NZXe to view the Project Report](Learnhub-project-Report.pdf)
+👉 https://drive.google.com/drive/folders/1TXwkMlGpYnwwcLaErckgf-zx_lPN6NZX
 
 > Upload your Learnhub-project-Report.pdf file to the main repository folder for this link to work.
 
